@@ -1,0 +1,1 @@
+The bug you cannot find today was written by you, and will be forgiven by tomorrow's you. Ship the fix, not the blame.
